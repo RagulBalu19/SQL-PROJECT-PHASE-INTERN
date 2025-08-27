@@ -1,4 +1,4 @@
-USE SRP
+USE SRP;
 
 -- Insert 50 Students
 INSERT INTO Students (student_id, name, department) VALUES

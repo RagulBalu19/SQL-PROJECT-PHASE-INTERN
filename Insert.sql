@@ -1,3 +1,5 @@
+USE SRP
+
 -- Insert 50 Students
 INSERT INTO Students (student_id, name, department) VALUES
 (1, 'Amit Sharma', 'CSE'),
